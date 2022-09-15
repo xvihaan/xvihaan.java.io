@@ -12,8 +12,8 @@
 <body>
  <h2>MyHouse.java</h2>
   <h3>소스 코드</h3>
-<img src="https://xvihaan.github.io/hw1_1_1_source.jpg">
+<img src="https://xvihaan.github.io/MyHouse.PNG">
 <h3>실행 예시</h3>
-<img src="https://xvihaan.github.io/hw1_1_1_result.jpg">
+<img src="https://xvihaan.github.io/MyHouse1.PNG">
 </body>
 </html>
